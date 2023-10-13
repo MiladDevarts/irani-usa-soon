@@ -15,7 +15,7 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: 'Irani USA | Comin Soon!',
+  title: 'Irani USA | Coming Soon!',
 }
 
 export default function RootLayout({
